@@ -5,6 +5,7 @@ This project investigates the vulnerabilities of Java's `java.util.Random`, whic
 We then introduce and validate a cryptographically secure alternative based on SHA-256, highlighting the importance of using proper entropy sources in software security.
 
 **Full paper:** [Cyber_Security.pdf](https://github.com/Yateeka/prng-security/blob/main/Cyber_Security.pdf)
+
 **Presentation slides:** [Breaking and Defending.pdf](https://github.com/Yateeka/prng-security/blob/main/Breaking%20and%20Defending.pdf)
 ---
 
